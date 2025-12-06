@@ -15,6 +15,14 @@ In 2022, I was promoted to Technical Solutions Engineer (L4), and in 2024, I adv
  
 In 2024, I transitioned to the Backline Platform team, where I focus on complex technical issues that customers face with the Databricks Platform and its integration with cloud platforms—typically cases where the Frontline Support team is unable to reach a resolution. In this role, I serve as a bridge between Support and the Databricks Engineering team, ensuring critical issues are thoroughly analysed and appropriately escalated. I also collaborate with engineering by highlighting key areas for product improvement to enhance the overall customer experience.
 
+Over my entire career, I have worked on multiple areas and got certified in the following areas:
+1. AWS Certified Solutions Architect – Associate
+2. HashiCorp Certified: Terraform Associate (002)
+3. [PCAP-31-03] PCAP™ – Certified Associate Python Programmer
+4. Associate Cloud Engineer, Google Cloud
+5. Databricks Certified Associate Developer for Apache Spark 3.0
+6. CKA: Certified Kubernetes Administrator
+
 ### Contact me
 
 pavankumarch470@gmail.com
