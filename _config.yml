@@ -1,12 +1,12 @@
 #
-# This file contains configuration flags to customize your site
+# This file contains configuration flags to customise your site
 #
 
 # Name of your site (displayed in the header)
 name: Pavan Kumar
 
 # Short bio or description (displayed in the header)
-description: Software Engineer at Informatica
+description: Senior Backline engineer(Platform) at Databricks
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
