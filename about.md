@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Currently iam working as a Associate Software engineer at Informatica
+Currently, iam working as a Senior Backline technical solutions engineer at Databricks Platform team. As part of this role, I work on some of the interesting problems that customers face during the implementation of the Data-Engineering/Data-Warehousing and AI/ML solutions as part of Databricks Platform 
 ### More Information
 
-Intreseted in programming and debugging the issue
+Interested in programming and debugging the issue
 
 ### Contact me
 
